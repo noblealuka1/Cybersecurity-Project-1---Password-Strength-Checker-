@@ -1,2 +1,3 @@
 # Cybersecurity-Project-1---Password-Strength-Checker-
-A beginner-friendly C project to check password strength while practicing and improving my C programming skills. It validates length, uppercase, lowercase, numbers, and special characters, and can compare passwords against common ones for added security.
+A beginner-friendly C project that checks password strength while I practise C fundamentals. It scans a password and checks for uppercase letters, lowercase letters, digits, and special characters, then gives a strength rating (Weak / Medium / Strong) based on how many of those it contains.
+
